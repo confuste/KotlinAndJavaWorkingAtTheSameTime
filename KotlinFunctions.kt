@@ -11,7 +11,7 @@ class KotlinFunctions {
     }
 
     /**
-     * Calcualte a sum
+     * Calculate a sum
      * @param a: Integer
      * @param b: Integer
      * @return Int number which is the final result
@@ -19,7 +19,7 @@ class KotlinFunctions {
     fun sumSingleLine (a:Int, b: Int) : Int = a+b
 
     /**
-     * Calcualte a sum
+     * Calculate a sum
      * @param a: Integer
      * @param b: Integer
      * @return Int number which is the final result
